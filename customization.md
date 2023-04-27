@@ -12,14 +12,14 @@
         <main>
           <article class="profile">
             <picture class="profile-img">
-              <source srcset="images/profile.png" media="(min-width: 600px)">
-              <img src="images/profile.png" alt="profile">
+              <source srcset="images/KUSH.png" media="(min-width: 600px)">
+              <img src="images/KUSH.png" alt="profile">
             </picture>
             <div class="content">
-              <p class="detail">Coding Profile</p>
-                <h1>NAME</h1>
+              <p class="detail">Kush's coding Profile</p>
+                <h1>Kushie</h1>
               <p>
-                Highschool student who has been coding for 3 years.
+                Highschool student who has been coding for almost  8 months.
               </p>
               <a href="https://pages.github.com/" class="button"></a>
             </div>
