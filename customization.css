@@ -18,7 +18,7 @@ body {
 }
 
 h1 {
-    color: hsl(284, 100%, 65%);
+    color: hsl(24, 100%, 65%);
     font-size: 2rem;
     font-family: var(--font-family-secondary);
     line-height: 1;

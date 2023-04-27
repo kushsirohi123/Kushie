@@ -21,7 +21,7 @@
               <p>
                 Highschool student who has been coding for almost  8 months.
               </p>
-              <a href="https://pages.github.com/" class="button"></a>
+              <a href="https://kushsirohi123.github.io/kushsirohirepo/" class="button"> my github</a>
             </div>
           </article>
         </main>
