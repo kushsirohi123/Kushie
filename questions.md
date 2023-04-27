@@ -14,7 +14,8 @@
 
 <h2>Write about how you plan to use what you learned in this lesson to improve your CPT project.</h2>
 
-I plan to use this lesson to make an introduction to my cpt project, a landing page when you get on the site.
+I plan to use this lesson to make an introduction to my cpt project, a landing page when you get on the site. I can make my website more appealing as well as more organized.
+
 
 <hr>
 
@@ -22,8 +23,7 @@ I plan to use this lesson to make an introduction to my cpt project, a landing p
 
 <h2>1. What are some of the best practices for creating effective wire-frames in computer science? How do wire-frames help with the design process?</h2>
 
-You can use canva and other designing websites to create a wire frame and they help with overall organization of the project, since you can 
- 
+You can use canva and other designing websites to create a wire frame and they help with overall organization of the project, since you know what you want in your app and you can look back during overall 
 
 
 <h2>2. How does user testing play a role in the design of user interfaces and wire-frames in computer science? Can you provide an example of a project where user testing significantly impacted the final product design?</h2>
@@ -48,12 +48,16 @@ They are used to target html elements and apply styles to them. One example is t
 <h1>JavaScript</h1>
 
 <h2>1. What are examples of selection, iteration, and sequencing in the snake game?</h2>
-Selection: Snakes head and 
-<h2>2. How does ":root" contribute to the customization of the game?</h2>
-<!--<p>ANSWER</p>-->
-<h2>3. Write 2-3 sentences about how the use of HTML, JavaScript, and CSS creates the final product.</h2>
-<!--<p>ANSWER</p>-->
+Selection: If statements within the function loop when the snake wrapped snake position horizontally on edge of screen as well as wrapping the snake position vertically on edge of screen
+Iteration: The game has a loop which checks if the snake has gotten off the board
+Sequencing: The game uses sequencing to move the snake around the board
 
+> 
+
+<h2>2. How does ":root" contribute to the customization of the game?</h2>
+:root contributes to the customization of the game, colors and whatnot
+<h2>3. Write 2-3 sentences about how the use of HTML, JavaScript, and CSS creates the final product.</h2>
+Html, css, and js are all used to create the application. Each has their own use, Html for the foundation of the page, css for the colors, fonts, overall styling, and js for the functionality of the game. All in all these features create the final product which is snake
 
 </div>
 </body>

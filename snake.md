@@ -8,7 +8,9 @@
 <body>
 <p id="p1">SCORE:</p>
 <p id="score"></p>
-<p id="p2">HIGHSCORE:</p>
+<p id="p2">HIGHSCORE:
+  <img src="images/KUSHIE.png" alt="profile" height="300">
+</p>
 <p id="high"></p>
 <button id="btn_stop" >Stop Snake Game</button>
 <p id="end_msg"></p>
